@@ -1,0 +1,35 @@
+{
+	"Guests": [{
+			"GuestID": 1,
+			"FirstName": "Carla",
+			"LastName": "Payne",
+			"EmailAddress": "carlajpayne@gmail.com",
+			"PhoneNumber": "2399106866",
+			"Address": "2287 Village View Drive"
+		},
+		{
+			"GuestID": 2,
+			"FirstName": "Robert",
+			"LastName": "Tan",
+			"EmailAddress": "roberttan@gmail.com",
+			"PhoneNumber": "806356981",
+			"Address": "1829 Hilltop Drive"
+		},
+		{
+			"GuestID": 3,
+			"FirstName": "Frank",
+			"LastName": "Brown",
+			"EmailAddress": "frankbrown@gmail.com",
+			"PhoneNumber": "9876543210",
+			"Address": "1307 Woodside Circle, USA"
+		},
+		{
+			"GuestID": 4,
+			"FirstName": "Alice",
+			"LastName": "Lee",
+			"EmailAddress": "alicelee@gmail.com",
+			"PhoneNumber": "5571234567",
+			"Address": "321 Pine St, Anytown, USA"
+		}
+	]
+}

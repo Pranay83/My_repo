@@ -1,0 +1,44 @@
+{
+  "Staff": [
+    {
+      "StaffID": 1,
+      "FirstName": "Philip",
+      "LastName": "Johnson",
+      "EmailAddress": "philipjohnson@gmail.com",
+      "PhoneNumber": "8106136564",
+      "Position": "Manager"
+    },
+    {
+      "StaffID": 2,
+      "FirstName": "Tom",
+      "LastName": "Hill",
+      "EmailAddress": "tomhill@gmail.com",
+      "PhoneNumber": "5702452693",
+      "Position": "Receptionist"
+    },
+    {
+      "StaffID": 3,
+      "FirstName": "BobJames",
+      "LastName": "Cusick",
+      "EmailAddress": "jamescusick@gmail.com",
+      "PhoneNumber": "8562848527",
+      "Position": "Housekeeper"
+    },
+    {
+      "StaffID": 4,
+      "FirstName": "John",
+      "LastName": "Hamler",
+      "EmailAddress": "johnhamler@gmail.com",
+      "PhoneNumber": "3364107220",
+      "Position": "Concierge"
+    },
+    {
+      "StaffID": 5,
+      "FirstName": "Rosemary",
+      "LastName": "Ward",
+      "EmailAddress": "rosemarweard@gmail.com",
+      "PhoneNumber": "3186692578",
+      "Position": "Maintenance"
+    }
+  ]
+}

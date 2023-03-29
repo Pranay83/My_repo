@@ -1,0 +1,32 @@
+{
+  "ServiceBookings": [
+    {
+      "BookingID": 1,
+      "GuestID": 1,
+      "ServiceID": 1,
+      "BookingDate": "2023-04-01",
+      "TotalPrice": 50.00
+    },
+    {
+      "BookingID": 2,
+      "GuestID": 2,
+      "ServiceID": 2,
+      "BookingDate": "2023-04-02",
+      "TotalPrice": 20.00
+    },
+    {
+      "BookingID": 3,
+      "GuestID": 3,
+      "ServiceID": 3,
+      "BookingDate": "2023-04-05",
+      "TotalPrice": 100.00
+    },
+    {
+      "BookingID": 4,
+      "GuestID": 4,
+      "ServiceID": 5,
+      "BookingDate": "2023-04-08",
+      "TotalPrice": 30.00
+    }
+  ]
+}

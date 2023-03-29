@@ -1,0 +1,34 @@
+{
+  "Services": [
+    {
+      "ServiceID": 1,
+      "ServiceName": "Airport Shuttle",
+      "Description": "Transportation to/from the airport",
+      "Price": 50.00
+    },
+    {
+      "ServiceID": 2,
+      "ServiceName": "Room Service",
+      "Description": "Food and drinks delivered to your room",
+      "Price": 20.00
+    },
+    {
+      "ServiceID": 3,
+      "ServiceName": "Spa",
+      "Description": "Massage and other spa treatments",
+      "Price": 100.00
+    },
+    {
+      "ServiceID": 4,
+      "ServiceName": "Fitness Center",
+      "Description": "Access to gym and exercise equipment",
+      "Price": 0.00
+    },
+    {
+      "ServiceID": 5,
+      "ServiceName": "Laundry",
+      "Description": "Washing and ironing of clothes",
+      "Price": 30.00
+    }
+  ]
+}

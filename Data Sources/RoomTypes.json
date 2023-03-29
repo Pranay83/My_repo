@@ -1,0 +1,24 @@
+{
+  "RoomTypes": [
+    {
+      "RoomTypeID": 1,
+      "RoomTypeName": "Standard Room",
+      "Description": "A comfortable room with basic amenities"
+    },
+    {
+      "RoomTypeID": 2,
+      "RoomTypeName": "Deluxe Room",
+      "Description": "A spacious room with premium amenities"
+    },
+    {
+      "RoomTypeID": 3,
+      "RoomTypeName": "Executive Suite",
+      "Description": "A luxurious suite with separate living area and bedroom"
+    },
+    {
+      "RoomTypeID": 4,
+      "RoomTypeName": "Penthouse Suite",
+      "Description": "The ultimate luxury experience with panoramic views"
+    }
+  ]
+}

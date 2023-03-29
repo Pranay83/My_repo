@@ -1,0 +1,44 @@
+{
+  "Reservations": [
+    {
+      "ReservationID": 1,
+      "GuestID": 1,
+      "RoomNumber": "101",
+      "CheckInDate": "2023-04-01",
+      "CheckOutDate": "2023-04-04",
+      "TotalPrice": 300.00
+    },
+    {
+      "ReservationID": 2,
+      "GuestID": 2,
+      "RoomNumber": "201",
+      "CheckInDate": "2023-04-02",
+      "CheckOutDate": "2023-04-04",
+      "TotalPrice": 400.00
+    },
+    {
+      "ReservationID": 3,
+      "GuestID": 3,
+      "RoomNumber": "301",
+      "CheckInDate": "2023-04-05",
+      "CheckOutDate": "2023-04-09",
+      "TotalPrice": 1600.00
+    },
+    {
+      "ReservationID": 4,
+      "GuestID": 4,
+      "RoomNumber": "102",
+      "CheckInDate": "2023-04-08",
+      "CheckOutDate": "2023-04-10",
+      "TotalPrice": 200.00
+    },
+    {
+      "ReservationID": 5,
+      "GuestID": 5,
+      "RoomNumber": "202",
+      "CheckInDate": "2023-04-10",
+      "CheckOutDate": "2023-04-14",
+      "TotalPrice": 800.00
+    }
+  ]
+}

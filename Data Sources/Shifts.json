@@ -1,0 +1,39 @@
+{
+  "Shifts": [
+    {
+      "ShiftID": 1,
+      "StaffID": 1,
+	  "ServiceID": 1,
+      "StartTime": "2023-04-01 08:00:00",
+      "EndTime": "2023-04-01 16:00:00"
+    },
+    {
+      "ShiftID": 2,
+      "StaffID": 2,
+	  "ServiceID": 3,
+      "StartTime": "2023-04-02 16:00:00",
+      "EndTime": "2023-04-03 00:00:00"
+    },
+    {
+      "ShiftID": 3,
+      "StaffID": 3,
+	  "ServiceID": 5,
+      "StartTime": "2023-04-04 08:00:00",
+      "EndTime": "2023-04-04 16:00:00"
+    },
+    {
+      "ShiftID": 4,
+      "StaffID": 4,
+	  "ServiceID": 2,
+      "StartTime": "2023-04-05 12:00:00",
+      "EndTime": "2023-04-05 20:00:00"
+    },
+    {
+      "ShiftID": 5,
+      "StaffID": 5,
+	  "ServiceID": 4,
+      "StartTime": "2023-04-06 16:00:00",
+      "EndTime": "2023-04-07 00:00:00"
+    }
+  ]
+}

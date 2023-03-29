@@ -1,0 +1,40 @@
+{
+  "Rooms": [
+    {
+      "RoomNumber": "101",
+      "RoomTypeID": 1,
+      "Capacity": 2,
+      "PricePerNight": 100.00
+    },
+    {
+      "RoomNumber": "102",
+      "RoomTypeID": 1,
+      "Capacity": 2,
+      "PricePerNight": 100.00
+    },
+    {
+      "RoomNumber": "201",
+      "RoomTypeID": 2,
+      "Capacity": 2,
+      "PricePerNight": 200.00
+    },
+    {
+      "RoomNumber": "202",
+      "RoomTypeID": 2,
+      "Capacity": 2,
+      "PricePerNight": 200.00
+    },
+    {
+      "RoomNumber": "301",
+      "RoomTypeID": 3,
+      "Capacity": 4,
+      "PricePerNight": 400.00
+    },
+    {
+      "RoomNumber": "302",
+      "RoomTypeID": 3,
+      "Capacity": 4,
+      "PricePerNight": 400.00
+    }
+  ]
+}
