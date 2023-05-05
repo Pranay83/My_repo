@@ -1,0 +1,3 @@
+(1, 'Airport Shuttle', 'Transportation to/from the airport', Decimal('50.00'))
+(2, 'Room Service', 'Food and drinks delivered to your room', Decimal('20.00'))
+(3, 'Spa', 'Massage and other spa treatments', Decimal('100.00'))

@@ -1,0 +1,4 @@
+(1, 'Carla', 'Payne', 'carlajpayne@gmail.com', 239910686, '2287 Village View Drive')
+(2, 'Robert', 'Tan', 'roberttan@gmail.com', 806356981, '1829 Hilltop Drive')
+(3, 'Frank', 'Brown', 'frankbrown@gmail.com', 987653210, '1307 Woodside Circle, USA')
+(4, 'Alice', 'Lee', 'alicelee@gmail.com', 557123457, '321 Pine St, Anytown, USA')

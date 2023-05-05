@@ -1,0 +1,4 @@
+(1, 'Standard Room', 'A comfortable room with basic amenities')
+(2, 'Deluxe Room', 'A spacious room with premium amenities')
+(3, 'Executive Suite', 'A luxurious suite with separate living area')
+(4, 'Penthouse Suite', 'The ultimate luxury experience with panoramic')
